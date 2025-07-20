@@ -19,6 +19,7 @@ Tools used:Numpy,Pandas,Python,Matplotlib,Tensorflow(with Keras API)
 ```
 ### Resut
 ``` shell
-<img src = "C:\Users\RAVI\OneDrive\Documents\OneDrive\Desktop\personals\RESUME\projects\image_claasifier\images\result.png" height = "400">
+<img width="1564" height="751" alt="Image" src="https://github.com/user-attachments/assets/f817f523-fd09-4675-8582-959a13f9ba45" />
+
 ```
 
