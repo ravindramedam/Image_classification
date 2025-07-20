@@ -15,7 +15,7 @@ Tools used:Numpy,Pandas,Python,Matplotlib,Tensorflow(with Keras API)
 ```
 ### TensorFlow
 ``` shell
-<img src = "C:\Users\RAVI\OneDrive\Documents\OneDrive\Desktop\personals\RESUME\projects\image_claasifier\images\tensorflow.png" height = "400">
+![img alt]()
 ```
 ### Resut
 ``` shell
