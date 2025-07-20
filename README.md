@@ -10,6 +10,6 @@ Tools used:Numpy,Pandas,Python,Matplotlib,Tensorflow(with Keras API)
 ```
 ### Project Workflow
 ``` shell
-<img src = ""C:\Users\RAVI\OneDrive\Pictures\Screenshots\Screenshot 2025-07-19 145015.png"" height = "400">
+<img src = "C:\Users\RAVI\OneDrive\Documents\OneDrive\Desktop\personals\RESUME\projects\image_claasifier\images\Screenshot 2025-07-19 145015.png" height = "400">
 ```
 
