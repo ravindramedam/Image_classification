@@ -10,17 +10,13 @@ A deep learning-based CNN model for accurate image classification — built with
 Tools used:Numpy,Pandas,Python,Matplotlib,Tensorflow(with Keras API)
 ```
 ### Project Workflow
-``` shell
+
  <img width="1564" height="751" alt="Screenshot 2025-07-19 145015" src="https://github.com/user-attachments/assets/309a9344-fd94-4da0-8392-8aacd0d5c60f" />
+ 
+### TensorFlow
+<img width="1682" height="569" alt="Screenshot 2025-07-19 144949" src="https://github.com/user-attachments/assets/643d43c3-d540-4dc3-917c-3e843d236ef0" />
 
-```
-2.jgjknjhn
-```
-<img width="1682" height="569" alt="Screenshot 2025-07-19 144949" src="https://github.com/user-attachments/assets/76466f10-94b9-4e54-a027-1af1d5a0d095" />
+### Result
 
-```
-### Resut
-``` shell
-
-<img width="945" height="535" alt="Screenshot 2025-07-20 121823" src="https://github.com/user-attachments/assets/62840b8a-41c8-4a9b-9871-5e04c2e40f61" />
+<img width="1450" height="535" alt="Screenshot 2025-07-20 121823" src="https://github.com/user-attachments/assets/62840b8a-41c8-4a9b-9871-5e04c2e40f61" />
 
