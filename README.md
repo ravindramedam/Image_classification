@@ -11,7 +11,8 @@ Tools used:Numpy,Pandas,Python,Matplotlib,Tensorflow(with Keras API)
 ```
 ### Project Workflow
 ``` shell
-<img src = "(https://github.com/ravindramedam/Image_classification/blob/4e7b898603f6c2cbe61a3f45cf46598057e4327c/tensorflow.png)" height = "400">
+<h2>Project Workflow</h2>
+<img src="https://github.com/ravindramedam/Image_classification/blob/4e7b898603f6c2cbe61a3f45cf46598057e4327c/tensorflow.png" alt="Project Workflow Image">
 ```
 ### TensorFlow
 ``` shell
