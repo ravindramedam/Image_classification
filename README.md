@@ -14,8 +14,8 @@ Tools used:Numpy,Pandas,Python,Matplotlib,Tensorflow(with Keras API)
  <img width="1564" height="751" alt="Screenshot 2025-07-19 145015" src="https://github.com/user-attachments/assets/309a9344-fd94-4da0-8392-8aacd0d5c60f" />
 
 ```
-### TensorFlow
-``` shell
+2.jgjknjhn
+```
 <img width="1682" height="569" alt="Screenshot 2025-07-19 144949" src="https://github.com/user-attachments/assets/76466f10-94b9-4e54-a027-1af1d5a0d095" />
 
 ```
