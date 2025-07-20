@@ -20,7 +20,8 @@ Tools used:Numpy,Pandas,Python,Matplotlib,Tensorflow(with Keras API)
 ```
 ### Resut
 ``` shell
-<img width="1564" height="751" alt="Image" src="https://github.com/user-attachments/assets/f817f523-fd09-4675-8582-959a13f9ba45" />
+![Image](https://github.com/user-attachments/assets/222b711d-0edb-4cc7-ad8b-6cbf79dc7469)
 
-```
+```![IMG_20230202_082928](https://github.com/user-attachments/assets/a2d28047-3764-4edb-b3c5-43a7e4734a47)
+
 
