@@ -11,7 +11,7 @@ Tools used:Numpy,Pandas,Python,Matplotlib,Tensorflow(with Keras API)
 ```
 ### Project Workflow
 ``` shell
-<img src = "C:\Users\RAVI\OneDrive\Documents\OneDrive\Desktop\personals\RESUME\projects\image_claasifier\images\workflow.png" height = "400">
+<img src = "(https://github.com/ravindramedam/Image_classification/blob/4e7b898603f6c2cbe61a3f45cf46598057e4327c/tensorflow.png)" height = "400">
 ```
 ### TensorFlow
 ``` shell
